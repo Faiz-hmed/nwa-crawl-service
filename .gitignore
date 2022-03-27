@@ -1,0 +1,4 @@
+.vscode\
+**/node_modules
+vol\
+command_to_run.txt
